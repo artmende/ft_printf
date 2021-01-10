@@ -1,5 +1,5 @@
 # ft_printf
-ft_printf is a project for 42 cursus that aim to create a basic printf function.
+ft_printf is a project for 42 cursus that aim to create a basic printf function. See subject for details.
 
 This version works with types : 'cspdiuxX%' and with flags : '-0.*'.
 
